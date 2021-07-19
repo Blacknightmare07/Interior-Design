@@ -1,0 +1,27 @@
+@media (max-width: 991px){
+	.main{
+		margin-left: 250px;
+	}
+}
+@media (max-width: 767px){
+	.member,.tarif{
+		width: 100%;
+	}
+	.tarif{
+		margin-bottom: 10px;
+	}
+}
+@media (max-width: 575px){
+	.main{
+		margin-left: 40px;
+	}
+	.menu{
+		position: static;
+		width: 100%;
+		box-sizing: border-box;
+	}
+	.images img{
+		width: 100%;
+	}
+}
+
